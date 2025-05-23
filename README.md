@@ -18,7 +18,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<br /> <br /> <br />
+<br /> <br />
 
 
 ```yaml
