@@ -1,34 +1,40 @@
-# <div align="center">👋 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+# <div align="center">👋 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25px"></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=IT+Specialist+%7C+Problem+Solver;DevOps+Engineer+%7C+Automation+Expert;_Code-Driven+%7C+Infrastructure+Enthusiast" alt="Typing SVG" />
 </div>
+<div align="center">
+  Welcome to my GitHub profile! I love automating infrastructure and solving complex problems.
+</div>
 
 <div align="center">
 
-[![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-4CAF50?style=for-the-badge\&logo=handshake\&logoColor=white)](#)
+[![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-4CAF50?style=for-the-badge&logo=handshake&logoColor=white)](mailto:skullcrs@example.com)
 
 </div>
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack & Tools](#tech-stack--tools)
+- [AI Skills Portfolio](#ai-skills-portfolio)
+- [Current Learning Journey](#current-learning-journey)
+- [Philosophy & Mindset](#philosophy--mindset)
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="About icon" width="30px"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
-
 
 name: Sabir Khan
 current_job: IT Specialist
 education: ["Self-taught", "Continuous Learning"]
 company: Open to DevOps, Automation & Infrastructure roles
 
-
 fields_of_interests: ["DevOps", "Cloud Architecture", "Automation", "Security"]
 currently_learning: ["Kubernetes", "Terraform", "Go"]
 hobbies: ["Coding", "Server Tinkering", "Problem Solving", "Tech Blogging"]
-
 
 ```
 
@@ -36,7 +42,7 @@ hobbies: ["Coding", "Server Tinkering", "Problem Solving", "Tech Blogging"]
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Tools icon" width="30"> Tech Stack & Tools
 
 <div align="center">
 
@@ -113,7 +119,7 @@ graph LR
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Current Learning Journey
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Learning icon" width="25"> Current Learning Journey
 
 <div align="center">
 
@@ -132,7 +138,7 @@ graph LR
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Philosophy & Mindset
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Mindset icon" width="25"> Philosophy & Mindset
 
 <div align="center">
 
@@ -141,17 +147,17 @@ graph LR
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Automate gif" width="80">
 <br><b>Automate Everything</b>
 <br><i>"Script what you repeat"</i>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Security gif" width="80">
 <br><b>Security First</b>
 <br><i>"Secure what you deploy"</i>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Learning gif" width="80">
 <br><b>Continuous Learning</b>
 <br><i>"Learn what you break"</i>
 </td>
@@ -160,22 +166,27 @@ graph LR
 
 </div>
 
-> <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="20"> **"The best infrastructure is the one you never have to think about"**
+> <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" alt="Quote" width="20"> **"The best infrastructure is the one you never have to think about"**
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamilracz&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=skullcrs&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="Thanks for visiting" width="20%">
 </div>
+
+## License
+This project is released under the [CC0 1.0](LICENSE) license.
+## Contact
+Feel free to reach out via [email](mailto:skullcrs@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/skullcrs).
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/kamilracz">skullcrs</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/skullcrs">skullcrs</a> with ❤️</i>
 </div>
 
 ---
