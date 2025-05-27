@@ -186,5 +186,5 @@ graph LR
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/kamilracz">skullcrs</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/skullcrs">skullcrs</a> with ❤️</i>
 </div>
