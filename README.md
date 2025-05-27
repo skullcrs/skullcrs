@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=IT+Specialist+%7C+Problem+Solver;DevOps+Engineer+%7C+Automation+Expert;Code-Driven+%7C+Infrastructure+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=IT+Specialist+%7C+Problem+Solver;DevOps+Engineer+%7C+Automation+Expert;_Code-Driven+%7C+Infrastructure+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
